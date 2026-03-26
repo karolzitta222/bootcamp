@@ -110,7 +110,7 @@ Comece com um resumo e depois use exatamente estas seções:
 
 ## DIRETRIZES PARA PLAN EM NODE/JAVASCRIPT
 
-* Sempre considerar: versão do Node, ESM vs CommonJS, estrutura do projeto, padrões de lint/test.
+* Sempre considerar: versão do Node, estrutura do projeto, padrões de lint/test.
 * Se envolver API/DB, prever: validação de input, tratamento de erro, timeouts/retries, logs.
 * Se envolver segurança: autenticação/autorização, secrets, OWASP básico (injeção, SSRF, etc).
 * Se envolver performance: caching, streaming, backpressure, limites.
